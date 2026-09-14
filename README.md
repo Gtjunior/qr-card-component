@@ -32,3 +32,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+### What I learned
+
+- Centering a card using flex box
+- Properly sizing the body when the content is not enough to cover the full height of the browser
+- Using custom variables
